@@ -26,6 +26,7 @@ This will concurrently start the server and the React development server.
 
 **Features**
 >> Add Income and Expenses: Log your financial transactions easily.
+
 >> Graph Visualization: Visualize your income and expenses over time using a graph.
 
 **Contributing**
