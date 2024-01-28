@@ -1,4 +1,4 @@
-**Money Flow Manager Application**
+# **Money Flow Manager Application**
 
 Welcome to the Money Flow Manager application! This MERN (MongoDB, Express.js, React, Node.js) stack application helps you manage your income and expenses, providing a user-friendly interface to add, track, and visualize your financial transactions.
 
@@ -25,8 +25,8 @@ Start the server in both client and server:
 This will concurrently start the server and the React development server.
 
 **Features**
-# Add Income and Expenses: Log your financial transactions easily.
-# Graph Visualization: Visualize your income and expenses over time using a graph.
+>> Add Income and Expenses: Log your financial transactions easily.
+>> Graph Visualization: Visualize your income and expenses over time using a graph.
 
 **Contributing**
 We welcome contributions! If you have any improvements or features to add, feel free to submit a pull request.
