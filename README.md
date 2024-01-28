@@ -10,7 +10,7 @@ _Before you begin, ensure you have the following installed:_
 
 **Getting Started**
 _Clone the repository:_
->> git clone [https://github.com/your-username/money-flow-manager.git](https://github.com/MohanB07/react-project.git)
+>> git clone https://github.com/MohanB07/react-project.git
 
 _Change into the project directory:_
 >> cd money-flow-manager
